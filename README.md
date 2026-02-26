@@ -74,5 +74,5 @@ ATM-Simulator-Python/
 ---
 
 ## 👩‍💻 Author
-Name: Sanika Mulik
-Course: Data Analytics / Python Developer (Fresher)
+- Name: Sanika Mulik
+- Course: Data Analytics / Python Developer (Fresher)
