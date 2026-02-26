@@ -46,7 +46,8 @@ This project simulates real-world ATM functionalities such as secure PIN authent
 
 ## 📂 Project Structure
 ATM-Simulator-Python/
-│── atm_simulator.py
+│── ATM Simulator.ipynb
+│── ATM Simulator.py
 │── README.md
 
 ---
